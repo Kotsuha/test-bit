@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Kotsuha/test-bit/issues"
   },
-  "homepage": "https://github.com/Kotsuha/test-bit#readme"
+  "homepage": "https://github.com/Kotsuha/test-bit#readme",
+  "bit": {
+    "env": {},
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+  }
 }

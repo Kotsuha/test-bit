@@ -1,0 +1,19 @@
+{
+  "name": "test-bit",
+  "version": "1.0.0",
+  "description": "Test how to use Bit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotsuha/test-bit.git"
+  },
+  "author": "Kotsuha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kotsuha/test-bit/issues"
+  },
+  "homepage": "https://github.com/Kotsuha/test-bit#readme"
+}
